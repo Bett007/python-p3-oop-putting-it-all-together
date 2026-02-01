@@ -27,3 +27,4 @@ class Shoe:
         """
         self.condition = "New"
         print("Your shoe is as good as new!")
+
